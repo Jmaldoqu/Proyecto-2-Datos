@@ -12,7 +12,7 @@ Thumbs.db
 MemoryCaptures/
 UserSettings/
 
-# Archivos de configuración
+# Archivos de configuraciï¿½n
 *.csproj
 *.unityproj
 *.sln
@@ -33,6 +33,8 @@ UserSettings/
 # VS Code
 .vscode/
 *.code-workspace
+.vs/
+
 
 # Otros
 ExportedObj/
@@ -41,7 +43,7 @@ ExportedObj/
 *.unitypackage
 *.log
 
-# Archivos generados por la compilación
+# Archivos generados por la compilaciï¿½n
 *.exe
 *.app
 *.dll
