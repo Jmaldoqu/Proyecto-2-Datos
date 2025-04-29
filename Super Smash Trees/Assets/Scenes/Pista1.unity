@@ -132,6 +132,7 @@ GameObject:
   - component: {fileID: 484365819}
   - component: {fileID: 484365821}
   - component: {fileID: 484365820}
+  - component: {fileID: 484365822}
   m_Layer: 0
   m_Name: Knight
   m_TagString: Untagged
@@ -265,8 +266,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.004978895, y: 0.0041856617}
-  m_Size: {x: 0.23206282, y: 0.31162867}
+  m_Offset: {x: -0.002562523, y: 0.013661777}
+  m_Size: {x: 0.16526794, y: 0.26682082}
   m_Direction: 0
 --- !u!50 &484365821
 Rigidbody2D:
@@ -283,7 +284,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 4
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -294,7 +295,21 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
+--- !u!114 &484365822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 484365816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474a9099d1080b945b88c07ebbcb919d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 6
+  jumpForce: 700
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
