@@ -100,7 +100,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -111,7 +111,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -135,10 +135,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -166,10 +166,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_0
       rect:
         serializedVersion: 2
-        x: 54
-        y: 19
-        width: 26
-        height: 32
+        x: 0
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,10 +188,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_1
       rect:
         serializedVersion: 2
-        x: 198
-        y: 19
-        width: 26
-        height: 32
+        x: 144
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,10 +210,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_2
       rect:
         serializedVersion: 2
-        x: 342
-        y: 19
-        width: 26
-        height: 32
+        x: 288
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -232,10 +232,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_3
       rect:
         serializedVersion: 2
-        x: 486
-        y: 19
-        width: 23
-        height: 31
+        x: 432
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -254,10 +254,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_4
       rect:
         serializedVersion: 2
-        x: 630
-        y: 19
-        width: 23
-        height: 31
+        x: 576
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -276,10 +276,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_5
       rect:
         serializedVersion: 2
-        x: 774
-        y: 19
-        width: 43
-        height: 30
+        x: 720
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -298,10 +298,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_6
       rect:
         serializedVersion: 2
-        x: 918
-        y: 19
-        width: 39
-        height: 30
+        x: 864
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -320,10 +320,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_7
       rect:
         serializedVersion: 2
-        x: 1062
-        y: 19
-        width: 39
-        height: 30
+        x: 1008
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,10 +342,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_8
       rect:
         serializedVersion: 2
-        x: 1206
-        y: 19
-        width: 35
-        height: 31
+        x: 1152
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -364,10 +364,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_9
       rect:
         serializedVersion: 2
-        x: 1339
-        y: 19
-        width: 32
-        height: 32
+        x: 1296
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,10 +386,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_10
       rect:
         serializedVersion: 2
-        x: 1486
-        y: 19
-        width: 50
-        height: 35
+        x: 1440
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -408,10 +408,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_11
       rect:
         serializedVersion: 2
-        x: 1638
-        y: 19
-        width: 41
-        height: 31
+        x: 1584
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -430,10 +430,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_12
       rect:
         serializedVersion: 2
-        x: 1782
-        y: 19
-        width: 41
-        height: 29
+        x: 1728
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -452,10 +452,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_13
       rect:
         serializedVersion: 2
-        x: 1930
-        y: 19
-        width: 32
-        height: 30
+        x: 1872
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -474,10 +474,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_14
       rect:
         serializedVersion: 2
-        x: 2081
-        y: 19
-        width: 29
-        height: 30
+        x: 2016
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -496,10 +496,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_15
       rect:
         serializedVersion: 2
-        x: 2225
-        y: 19
-        width: 23
-        height: 30
+        x: 2160
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -518,10 +518,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_16
       rect:
         serializedVersion: 2
-        x: 2374
-        y: 19
-        width: 20
-        height: 30
+        x: 2304
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -540,10 +540,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_17
       rect:
         serializedVersion: 2
-        x: 2530
-        y: 19
-        width: 53
-        height: 28
+        x: 2448
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -562,10 +562,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_18
       rect:
         serializedVersion: 2
-        x: 2674
-        y: 19
-        width: 42
-        height: 29
+        x: 2592
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -584,10 +584,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_19
       rect:
         serializedVersion: 2
-        x: 2818
-        y: 19
-        width: 24
-        height: 29
+        x: 2736
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -606,10 +606,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_20
       rect:
         serializedVersion: 2
-        x: 2962
-        y: 19
-        width: 24
-        height: 29
+        x: 2880
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -628,10 +628,10 @@ TextureImporter:
       name: noBKG_KnightAttack_strip_21
       rect:
         serializedVersion: 2
-        x: 3106
-        y: 19
-        width: 24
-        height: 29
+        x: 3024
+        y: 0
+        width: 144
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -650,7 +650,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3fefaf77f5e938248974708c14233f8d
     internalID: 0
     vertices: []
     indices: 
