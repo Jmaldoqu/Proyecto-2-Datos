@@ -1,10 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
-<<<<<<<< Updated upstream:Super Smash Trees/Assets/Prefabs/Necromancer 1.prefab
 --- !u!1 &6765209856405468240
-========
---- !u!1 &6095173552451886335
->>>>>>>> Stashed changes:Super Smash Trees/Assets/Prefabs/Knight 1.prefab
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -12,7 +8,6 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<<< Updated upstream:Super Smash Trees/Assets/Prefabs/Necromancer 1.prefab
   - component: {fileID: 6073071163691035480}
   - component: {fileID: 3784484664162837620}
   - component: {fileID: 3056257423442447825}
@@ -25,65 +20,32 @@ GameObject:
   m_Layer: 0
   m_Name: Necromancer 1
   m_TagString: Player2
-========
-  - component: {fileID: 6484105064825242330}
-  - component: {fileID: 2632790147976452922}
-  - component: {fileID: 8815187087373002481}
-  - component: {fileID: 1404710913300955516}
-  - component: {fileID: 4847478689696321368}
-  - component: {fileID: 932434888544431252}
-  - component: {fileID: 5726771605463935641}
-  - component: {fileID: 3310247966721208498}
-  - component: {fileID: -400929501690148734}
-  m_Layer: 0
-  m_Name: Knight 1
-  m_TagString: Player1
->>>>>>>> Stashed changes:Super Smash Trees/Assets/Prefabs/Knight 1.prefab
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<<< Updated upstream:Super Smash Trees/Assets/Prefabs/Necromancer 1.prefab
 --- !u!4 &6073071163691035480
-========
---- !u!4 &6484105064825242330
->>>>>>>> Stashed changes:Super Smash Trees/Assets/Prefabs/Knight 1.prefab
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<<< Updated upstream:Super Smash Trees/Assets/Prefabs/Necromancer 1.prefab
   m_GameObject: {fileID: 6765209856405468240}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 4.121622, y: -1.77, z: 0}
-========
-  m_GameObject: {fileID: 6095173552451886335}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.59, y: 2.93, z: 0}
->>>>>>>> Stashed changes:Super Smash Trees/Assets/Prefabs/Knight 1.prefab
   m_LocalScale: {x: 3.5, y: 3.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<<< Updated upstream:Super Smash Trees/Assets/Prefabs/Necromancer 1.prefab
 --- !u!212 &3784484664162837620
-========
---- !u!212 &2632790147976452922
->>>>>>>> Stashed changes:Super Smash Trees/Assets/Prefabs/Knight 1.prefab
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<<< Updated upstream:Super Smash Trees/Assets/Prefabs/Necromancer 1.prefab
   m_GameObject: {fileID: 6765209856405468240}
-========
-  m_GameObject: {fileID: 6095173552451886335}
->>>>>>>> Stashed changes:Super Smash Trees/Assets/Prefabs/Knight 1.prefab
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -121,63 +83,33 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 6
-  m_Sprite: {fileID: 1509690687825009327, guid: 8763322e40227184bbd4aa226766419e, type: 3}
+  m_Sprite: {fileID: 7626730168138988562, guid: 649e9a64742ca5d4a915d1d5cf698a02, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.26, y: 0.32}
+  m_Size: {x: 0.96, y: 0.96}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<<< Updated upstream:Super Smash Trees/Assets/Prefabs/Necromancer 1.prefab
 --- !u!50 &3056257423442447825
-========
---- !u!95 &8815187087373002481
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6095173552451886335}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: cecaa6d0192a871488fc3a79b3b9b2e3, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
---- !u!50 &1404710913300955516
->>>>>>>> Stashed changes:Super Smash Trees/Assets/Prefabs/Knight 1.prefab
 Rigidbody2D:
   serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<<< Updated upstream:Super Smash Trees/Assets/Prefabs/Necromancer 1.prefab
   m_GameObject: {fileID: 6765209856405468240}
-========
-  m_GameObject: {fileID: 6095173552451886335}
->>>>>>>> Stashed changes:Super Smash Trees/Assets/Prefabs/Knight 1.prefab
   m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 1
-  m_Mass: 0.3964034
+  m_Mass: 0.6711087
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 4
+  m_GravityScale: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -189,21 +121,13 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
-<<<<<<<< Updated upstream:Super Smash Trees/Assets/Prefabs/Necromancer 1.prefab
 --- !u!70 &1111892609639189682
-========
---- !u!70 &4847478689696321368
->>>>>>>> Stashed changes:Super Smash Trees/Assets/Prefabs/Knight 1.prefab
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<<< Updated upstream:Super Smash Trees/Assets/Prefabs/Necromancer 1.prefab
   m_GameObject: {fileID: 6765209856405468240}
-========
-  m_GameObject: {fileID: 6095173552451886335}
->>>>>>>> Stashed changes:Super Smash Trees/Assets/Prefabs/Knight 1.prefab
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
@@ -231,61 +155,34 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.002562523, y: 0.031438913}
-  m_Size: {x: 0.16526794, y: 0.23126678}
+  m_Offset: {x: -0.004017915, y: 0.06228909}
+  m_Size: {x: 0.19645017, y: 0.32103026}
   m_Direction: 0
-<<<<<<<< Updated upstream:Super Smash Trees/Assets/Prefabs/Necromancer 1.prefab
 --- !u!114 &284306326819865651
-========
---- !u!114 &932434888544431252
->>>>>>>> Stashed changes:Super Smash Trees/Assets/Prefabs/Knight 1.prefab
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<<< Updated upstream:Super Smash Trees/Assets/Prefabs/Necromancer 1.prefab
   m_GameObject: {fileID: 6765209856405468240}
-========
-  m_GameObject: {fileID: 6095173552451886335}
->>>>>>>> Stashed changes:Super Smash Trees/Assets/Prefabs/Knight 1.prefab
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 16b6bfdafd26c844fa7f951ee87b4266, type: 3}
+  m_Script: {fileID: 11500000, guid: b4ef14ca389b9614d858f284f11cc6eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
   jumpForce: 155
-<<<<<<<< Updated upstream:Super Smash Trees/Assets/Prefabs/Necromancer 1.prefab
-  attackKey: 274
-  ShieldKey: 19
-  moveLeftKey: 276
-  moveRightKey: 275
-  jumpKey: 273
-========
-  attackKey: 32
-  ShieldKey: 304
-  moveLeftKey: 97
-  moveRightKey: 100
-  jumpKey: 119
->>>>>>>> Stashed changes:Super Smash Trees/Assets/Prefabs/Knight 1.prefab
   attackRange: 1
-  attackCooldown: 2
-  pushForce: 10
+  attackCooldown: 0
+  pushForce: 300
   animationTime: 2.9
-<<<<<<<< Updated upstream:Super Smash Trees/Assets/Prefabs/Necromancer 1.prefab
 --- !u!95 &8038168011839133416
 Animator:
   serializedVersion: 7
-========
---- !u!114 &5726771605463935641
-MonoBehaviour:
->>>>>>>> Stashed changes:Super Smash Trees/Assets/Prefabs/Knight 1.prefab
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<<< Updated upstream:Super Smash Trees/Assets/Prefabs/Necromancer 1.prefab
   m_GameObject: {fileID: 6765209856405468240}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
@@ -309,52 +206,32 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6765209856405468240}
   m_Enabled: 1
-========
-  m_GameObject: {fileID: 6095173552451886335}
-  m_Enabled: 1
->>>>>>>> Stashed changes:Super Smash Trees/Assets/Prefabs/Knight 1.prefab
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a58301e288e774d44ae63faf4258fa0b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   fallThreshold: -10
-<<<<<<<< Updated upstream:Super Smash Trees/Assets/Prefabs/Necromancer 1.prefab
   otroJugador: {fileID: 6095173552451886335, guid: 2fe0c4fc5e4f3a34188c758e8a9717d8, type: 3}
   puntosBonus: 1
 --- !u!114 &2434687417554392622
-========
-  otroJugador: {fileID: 0}
-  puntosBonus: 1
---- !u!114 &3310247966721208498
->>>>>>>> Stashed changes:Super Smash Trees/Assets/Prefabs/Knight 1.prefab
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<<< Updated upstream:Super Smash Trees/Assets/Prefabs/Necromancer 1.prefab
   m_GameObject: {fileID: 6765209856405468240}
-========
-  m_GameObject: {fileID: 6095173552451886335}
->>>>>>>> Stashed changes:Super Smash Trees/Assets/Prefabs/Knight 1.prefab
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 09d1b8581aa97114785c305c78600efa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<<< Updated upstream:Super Smash Trees/Assets/Prefabs/Necromancer 1.prefab
   score: 5
 --- !u!114 &6735703620061824913
-========
-  score: 4
---- !u!114 &-400929501690148734
->>>>>>>> Stashed changes:Super Smash Trees/Assets/Prefabs/Knight 1.prefab
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<<< Updated upstream:Super Smash Trees/Assets/Prefabs/Necromancer 1.prefab
   m_GameObject: {fileID: 6765209856405468240}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -403,21 +280,3 @@ MonoBehaviour:
   m_DefaultActionMap: Jugador 2
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
-========
-  m_GameObject: {fileID: 6095173552451886335}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f78558b8c0526184faa8e1aafce5c501, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  TreeType: 
-  challengeOption: 0
-  TreeVisual: {fileID: 0}
-  TreeVisual_Selected: {fileID: 0}
-  TreeVisual_Options:
-  - {fileID: 8239180312790486093, guid: ce6a2c37d2318bc41878ef9e531fa6f8, type: 3}
-  - {fileID: 910910340656009326, guid: 64d248f7f8f4ea44b88ab3d75b8017ca, type: 3}
-  playerNum: 0
-  spawnPosition: {x: 0, y: 0, z: 0}
-  spawnRotation: {x: 0, y: 0, z: 0, w: 0}
->>>>>>>> Stashed changes:Super Smash Trees/Assets/Prefabs/Knight 1.prefab
