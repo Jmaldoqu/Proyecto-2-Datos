@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cotym\\OneDrive\\Escritorio\\Super Smash Trees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43B8649C-DAD6-B4AA-6ADC-521DD03547C2}|Assembly-CSharp.csproj|C:\\Users\\cotym\\OneDrive\\Escritorio\\Super Smash Trees\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B8649C-DAD6-B4AA-6ADC-521DD03547C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B8649C-DAD6-B4AA-6ADC-521DD03547C2}|Assembly-CSharp.csproj|c:\\users\\cotym\\onedrive\\escritorio\\super smash trees\\assets\\exportar\\exportar\\scripts listos - no tocar\\challenge_2.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B8649C-DAD6-B4AA-6ADC-521DD03547C2}|Assembly-CSharp.csproj|solutionrelative:assets\\exportar\\exportar\\scripts listos - no tocar\\challenge_2.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B8649C-DAD6-B4AA-6ADC-521DD03547C2}|Assembly-CSharp.csproj|C:\\Users\\cotym\\OneDrive\\Escritorio\\Super Smash Trees\\assets\\scripts\\ca\u00EDda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B8649C-DAD6-B4AA-6ADC-521DD03547C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ca\u00EDda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B8649C-DAD6-B4AA-6ADC-521DD03547C2}|Assembly-CSharp.csproj|C:\\Users\\cotym\\OneDrive\\Escritorio\\Super Smash Trees\\assets\\exportar\\exportar\\scripts listos - no tocar\\btreenodevisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B8649C-DAD6-B4AA-6ADC-521DD03547C2}|Assembly-CSharp.csproj|solutionrelative:assets\\exportar\\exportar\\scripts listos - no tocar\\btreenodevisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B8649C-DAD6-B4AA-6ADC-521DD03547C2}|Assembly-CSharp.csproj|C:\\Users\\cotym\\OneDrive\\Escritorio\\Super Smash Trees\\assets\\exportar\\exportar\\scripts listos - no tocar\\btreevisualchallenge1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B8649C-DAD6-B4AA-6ADC-521DD03547C2}|Assembly-CSharp.csproj|solutionrelative:assets\\exportar\\exportar\\scripts listos - no tocar\\btreevisualchallenge1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Challenge_2.0.cs",
+              "DocumentMoniker": "C:\\Users\\cotym\\OneDrive\\Escritorio\\Super Smash Trees\\Assets\\Exportar\\Exportar\\Scripts Listos - no tocar\\Challenge_2.0.cs",
+              "RelativeDocumentMoniker": "Assets\\Exportar\\Exportar\\Scripts Listos - no tocar\\Challenge_2.0.cs",
+              "ToolTip": "C:\\Users\\cotym\\OneDrive\\Escritorio\\Super Smash Trees\\Assets\\Exportar\\Exportar\\Scripts Listos - no tocar\\Challenge_2.0.cs",
+              "RelativeToolTip": "Assets\\Exportar\\Exportar\\Scripts Listos - no tocar\\Challenge_2.0.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:27:48.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ca\u00EDda.cs",
+              "DocumentMoniker": "C:\\Users\\cotym\\OneDrive\\Escritorio\\Super Smash Trees\\Assets\\Scripts\\Ca\u00EDda.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ca\u00EDda.cs",
+              "ToolTip": "C:\\Users\\cotym\\OneDrive\\Escritorio\\Super Smash Trees\\Assets\\Scripts\\Ca\u00EDda.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ca\u00EDda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:15:17.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\cotym\\OneDrive\\Escritorio\\Super Smash Trees\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\cotym\\OneDrive\\Escritorio\\Super Smash Trees\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:37:38.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BTreeVisualChallenge1.cs",
+              "DocumentMoniker": "C:\\Users\\cotym\\OneDrive\\Escritorio\\Super Smash Trees\\Assets\\Exportar\\Exportar\\Scripts Listos - no tocar\\BTreeVisualChallenge1.cs",
+              "RelativeDocumentMoniker": "Assets\\Exportar\\Exportar\\Scripts Listos - no tocar\\BTreeVisualChallenge1.cs",
+              "ToolTip": "C:\\Users\\cotym\\OneDrive\\Escritorio\\Super Smash Trees\\Assets\\Exportar\\Exportar\\Scripts Listos - no tocar\\BTreeVisualChallenge1.cs",
+              "RelativeToolTip": "Assets\\Exportar\\Exportar\\Scripts Listos - no tocar\\BTreeVisualChallenge1.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAYwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:24:43.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BTreeNodeVisual.cs",
+              "DocumentMoniker": "C:\\Users\\cotym\\OneDrive\\Escritorio\\Super Smash Trees\\Assets\\Exportar\\Exportar\\Scripts Listos - no tocar\\BTreeNodeVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Exportar\\Exportar\\Scripts Listos - no tocar\\BTreeNodeVisual.cs",
+              "ToolTip": "C:\\Users\\cotym\\OneDrive\\Escritorio\\Super Smash Trees\\Assets\\Exportar\\Exportar\\Scripts Listos - no tocar\\BTreeNodeVisual.cs",
+              "RelativeToolTip": "Assets\\Exportar\\Exportar\\Scripts Listos - no tocar\\BTreeNodeVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:23:44.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
