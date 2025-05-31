@@ -11,6 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Pista1.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: a0e31bf346467c04c9de24914a608b37
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+    com.unity.input.settings: {fileID: 11400000, guid: 5529ebf9c86d29640b607900bade4a01, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: ed9aaac0679a2e1498c7a32d9d9ec470, type: 3}
   m_UseUCBPForAssetBundles: 0
